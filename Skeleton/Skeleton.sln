@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MusicSalesTests", "CheckoutKata\MusicSalesTests.csproj", "{3E0FED3C-127C-410E-9C6C-CB8C7F1BF0D8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MusicSalesTests", "Skeleton\MusicSalesTests.csproj", "{3E0FED3C-127C-410E-9C6C-CB8C7F1BF0D8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
